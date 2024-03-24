@@ -187,3 +187,85 @@ public class Eight {
 
 ```
 
+## 9.
+![P9.webp](src%2FAssect%2FP9.webp)
+
+```java
+public class Nine {
+    public static void main(String[] args) {
+        int num = 5;
+
+        // Pattern 9
+
+        for (int i = 0; i < num; i++) {
+            for (int j = 0; j < num-i-1; j++) {
+                System.out.print(" ");
+            }
+            for (int j = 0; j < (2*i+1); j++) {
+                System.out.print("*");
+            }
+            for (int j = 0; j < (num-i-1); j++) {
+                System.out.print(" ");
+            }
+            System.out.println();
+        }
+
+        for (int i = 0; i < num; i++) {
+            for (int j = 0; j < i; j++) {
+                System.out.print(" ");
+            }
+            for (int j = 0; j <(2*num) -(2*i+1) ; j++) {
+                System.out.print("*");
+            }
+            for (int j = 0; j < i; j++) {
+                System.out.print(" ");
+            }
+            System.out.println();
+        }
+    }
+}
+
+```
+
+## 10.
+![P10.webp](src%2FAssect%2FP10.webp)
+
+```java
+public class Ten {
+    public static void main(String[] args) {
+        int num = 4;
+
+        // Pattern 10
+
+
+        // Approach 1
+
+        for (int i = 1; i <= num; i++) {
+            for (int j = 0; j < i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+        for (int i = num-1; i >=1 ; i--) {
+            for (int j = 0; j < i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+        // Approach 2
+
+        for (int i = 1; i <= (2*num -1) ; i++) {
+            int star = i;
+            if( i > num) star = (2 * num -i);
+
+            for (int j = 1; j <= star ; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+}
+
+```

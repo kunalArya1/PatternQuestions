@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebb850c-8900-44dc-a0a9-f1ac9fdd03c6" name="Changes" comment="-&gt; Question Four Added">
-      <change afterPath="$PROJECT_DIR$/src/Assect/P5.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assect/P6.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assect/P7.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assect/P8.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/five.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/six.java" afterDir="false" />
+    <list default="true" id="1ebb850c-8900-44dc-a0a9-f1ac9fdd03c6" name="Changes" comment="-&gt; Question Five ,Six ,Seven, Eight Added">
+      <change afterPath="$PROJECT_DIR$/src/Assect/P10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assect/P9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ten.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
@@ -49,8 +45,10 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Eight.executor": "Run",
+    "Application.Nine.executor": "Run",
     "Application.Second.executor": "Run",
     "Application.Seven.executor": "Run",
+    "Application.Ten.executor": "Run",
     "Application.first.executor": "Run",
     "Application.five.executor": "Run",
     "Application.four.executor": "Run",
@@ -81,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711240797850</updated>
-      <workItem from="1711240798926" duration="3407000" />
+      <workItem from="1711240798926" duration="4677000" />
     </task>
     <task id="LOCAL-00001" summary="Pattern Question for Logic Building &#10;-&gt; first Question Added">
       <option name="closed" value="true" />
@@ -123,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711242490092</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="-&gt; Question Five ,Six ,Seven, Eight Added">
+      <option name="closed" value="true" />
+      <created>1711244534364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711244534364</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +142,7 @@
     <MESSAGE value="-&gt; Question Two Added" />
     <MESSAGE value="-&gt; Question Three Added" />
     <MESSAGE value="-&gt; Question Four Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="-&gt; Question Four Added" />
+    <MESSAGE value="-&gt; Question Five ,Six ,Seven, Eight Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="-&gt; Question Five ,Six ,Seven, Eight Added" />
   </component>
 </project>
