@@ -91,3 +91,99 @@ public class four {
 }
 
 ```
+
+## 5.
+![P5.webp](src%2FAssect%2FP5.webp)
+
+```java
+public class five {
+    public static void main(String[] args) {
+        int num = 5;
+
+        // Pattern 5
+
+        for (int i = num; i > 0 ; i--) {
+            for (int j = 0; j < i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+}
+
+```
+
+## 6.
+![P6.webp](src%2FAssect%2FP6.webp)
+
+```java
+public class six {
+    public static void main(String[] args) {
+        int num = 5;
+
+        // Pattern 6
+
+        for (int i = num; i >0 ; i--) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print(j);
+            }
+            System.out.println();
+        }
+    }
+}
+
+```
+
+## 7.
+![P7.webp](src%2FAssect%2FP7.webp)
+```java
+public class Seven {
+    public static void main(String[] args) {
+        int num = 6;
+
+        // Pattern Seven
+
+        for (int i = 0; i < num; i++) {
+            for (int j = 0; j <  (num-i-1); j++) {
+                System.out.print(" ");
+            }
+            for (int j = 0; j < (2*i + 1); j++) {
+                System.out.print("*");
+            }
+            for (int j = 0; j < ( num - i-1); j++) {
+                System.out.print(" ");
+            }
+            System.out.println();
+        }
+    }
+}
+
+```
+
+## 8.
+![P8.webp](src%2FAssect%2FP8.webp)
+
+```java
+public class Eight {
+    public static void main(String[] args) {
+        int num = 6;
+
+        // Pattern 8
+
+        for (int i = 0; i < num ; i++) {
+            for (int j = 0; j < i; j++) {
+                System.out.print(" ");
+            }
+            for (int j = 0; j < (2*num)-(2*i+1) ; j++) {
+                System.out.print("*");
+            }
+            for (int j = 0; j < i; j++) {
+                System.out.print(" ");
+            }
+            System.out.println();
+        }
+    }
+}
+
+```
+

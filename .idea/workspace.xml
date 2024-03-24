@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebb850c-8900-44dc-a0a9-f1ac9fdd03c6" name="Changes" comment="-&gt; Question Two Added">
-      <change afterPath="$PROJECT_DIR$/src/third.java" afterDir="false" />
+    <list default="true" id="1ebb850c-8900-44dc-a0a9-f1ac9fdd03c6" name="Changes" comment="-&gt; Question Four Added">
+      <change afterPath="$PROJECT_DIR$/src/Assect/P5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assect/P6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assect/P7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assect/P8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/six.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +38,24 @@
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2e71RbnTqUs9Uik1xFZc5vyLvAG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Eight.executor": "Run",
     "Application.Second.executor": "Run",
+    "Application.Seven.executor": "Run",
     "Application.first.executor": "Run",
+    "Application.five.executor": "Run",
+    "Application.four.executor": "Run",
+    "Application.six.executor": "Run",
+    "Application.third.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -63,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711240797850</updated>
-      <workItem from="1711240798926" duration="1388000" />
+      <workItem from="1711240798926" duration="3407000" />
     </task>
     <task id="LOCAL-00001" summary="Pattern Question for Logic Building &#10;-&gt; first Question Added">
       <option name="closed" value="true" />
@@ -89,16 +107,35 @@
       <option name="project" value="LOCAL" />
       <updated>1711242010512</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="-&gt; Question Three Added">
+      <option name="closed" value="true" />
+      <created>1711242324987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711242324987</updated>
+    </task>
+    <task id="LOCAL-00005" summary="-&gt; Question Four Added">
+      <option name="closed" value="true" />
+      <created>1711242490092</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711242490092</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Pattern Question for Logic Building &#10;-&gt; first Question Added" />
     <MESSAGE value="-&gt; Readme File Added" />
     <MESSAGE value="-&gt; Question Two Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="-&gt; Question Two Added" />
+    <MESSAGE value="-&gt; Question Three Added" />
+    <MESSAGE value="-&gt; Question Four Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="-&gt; Question Four Added" />
   </component>
 </project>
